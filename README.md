@@ -96,14 +96,5 @@
 
 ---
 
-### 🧠 Quote of the Day
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sneakysockz&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</p>
 
 <!-- Feel free to replace or add more interactivity below! -->
