@@ -29,12 +29,31 @@
 
 ## 💾 Tech Stack
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=azuredevops&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+# 💻 Tech Stack & Tools
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure AD](https://img.shields.io/badge/Azure_AD-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Firewall Security](https://img.shields.io/badge/Firewall_Security-FF6B00?style=for-the-badge&logo=fortinet&logoColor=white)
+
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00C6AE?style=for-the-badge&logo=servicenow&logoColor=white)
+![Ivanti](https://img.shields.io/badge/Ivanti-F03C2E?style=for-the-badge&logo=ivanti&logoColor=white)
+![Citrix](https://img.shields.io/badge/Citrix-444444?style=for-the-badge&logo=citrix&logoColor=white)
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0089D6?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Scripting](https://img.shields.io/badge/Scripting-333333?style=for-the-badge&logo=code&logoColor=white)
+
+![Apple](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Hardware](https://img.shields.io/badge/PC_Builds_&_Support-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 
 ---
