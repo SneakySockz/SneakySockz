@@ -23,6 +23,8 @@
 
 🛠️ I thrive in high-pressure environments, lead with mentorship, and enjoy building tech that's **secure, scalable, and efficient**.
 
+🌐 Out In The Real World Me: Balancing IT ambition with movies/tv series and RTS game domination, my "downtime" involves plotting world domination (in-game, mostly!), sneaking in some valuable upskilling, and a highly strategic mid-week pint to break up the routine. You'll also find me meticulously expanding my collection of video games and consoles, a true digital archivist at heart. When the opportunity arises, I'm always keen to explore new places and experience different cultures.
+
 ⚡ Fun fact: *The unicorn is the national animal of Scotland!*
 
 ---
