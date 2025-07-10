@@ -42,12 +42,8 @@
 
 > *(Pac-Man auto-plays! Turn on sound for max nostalgia)*
 
-<p align="center">
-  <a href="https://sneakysockz.github.io/pacman" target="_blank">
-    <img src="https://raw.githubusercontent.com/snehankekre/pacman-html/master/pacman.gif" width="400"/>
-  </a><br/>
-  <a href="https://sneakysockz.github.io/pacman">▶️ Play Pac-Man</a>
-</p>
+<a href="https://sneakysockz.github.io/pacman/" class="glow-button" target="_blank">🎮 Play Pac-Man</a>
+
 
 ---
 
