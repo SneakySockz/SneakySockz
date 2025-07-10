@@ -42,7 +42,7 @@
 
 > *(Pac-Man auto-plays! Turn on sound for max nostalgia)*
 
-<a href="https://sneakysockz.github.io/pacman/" class="glow-button" target="_blank">🎮 Play Pac-Man</a>
+<a href="[https://sneakysockz.github.io/pacman/](https://github.com/SneakySockz/pacman-lite)" class="glow-button" target="_blank">🎮 Play Pac-Man</a>
 
 
 ---
