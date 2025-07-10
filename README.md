@@ -36,14 +36,6 @@
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
----
-
-## 🎮 Wanna Play?
-
-> *(Pac-Man auto-plays! Turn on sound for max nostalgia)*
-
-<a href="[https://github.com/SneakySockz/pacman-lit](https://pacman-e281c.firebaseapp.com/)e" class="glow-button" target="_blank">🎮 Play Pac-Man</a>
-
 
 ---
 
